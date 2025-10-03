@@ -8,6 +8,7 @@ public partial class Second : Node2D
 	{
 		Console.WriteLine("Second");
 		Console.WriteLine("Second");
+		Console.WriteLine("Corwin making changes");
 	}
 
 	// Called every frame. 'delta' is the elapsed time since the previous frame.
