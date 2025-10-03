@@ -8,6 +8,7 @@ public partial class Node2d : Node2D
 	{
 		Console.WriteLine("Node2d::_Ready()");
 		Console.WriteLine("First");
+		//pull request?
 	}
 
 	// Called every frame. 'delta' is the elapsed time since the previous frame.
