@@ -7,6 +7,7 @@ public partial class Second : Node2D
 	public override void _Ready()
 	{
 		Console.WriteLine("Second");
+		Console.WriteLine("Second");
 	}
 
 	// Called every frame. 'delta' is the elapsed time since the previous frame.
